@@ -5,7 +5,7 @@ import os
 PATH = os.path.dirname(os.path.abspath( __file__ )) + "\\"
 
 # Input image name and extension
-IMG = "lena"
+IMG = "mountain1080"
 EXT = ".png"
 
 # Key paths
@@ -16,18 +16,14 @@ SRC  = "images\\"           # Folder containing input and output
 ENC_IN =  SRC + IMG + EXT               # Input image
 ENC_OUT= SRC + IMG + "_encrypted.png"   # Encrypted Image
 DEC_OUT= SRC + IMG + "_decrypted.png"   # Decrypted Image
-PERM   = TEMP + IMG + "_1permuted.png"    # Permuted Image
-DIFF   = TEMP + IMG + "_2diffused.png"    # Diffused Image
-UNDIFF = TEMP + IMG + "_3undiffused.png"  # UnDiffused Image
-UNPERM = TEMP + IMG + "_4unpermuted.png"  # UnPermuted Image
+
+# Log files
+P1LOG = TEMP + "P1.txt"
+P2LOG = TEMP + "P2.txt"
 
 # Flags
-DEBUG_TIMER  = True # Print timing statistics in console
-DEBUG_IMAGES = True # Store intermediary results
+DEBUG_TIMER  = True  # Print timing statistics in console
 
 # Control Parameters
-PERM_ROUNDS= 2
-PERMINTLIM = 32
-DIFFINTLIM = 16
-f = 0
-r = 0
+PERM_ROUNDS= 3  # PERM_ROUNDS+1 rounds performed
+PERMINTLIM = 32 # Limit when generating control paramteters for relocation vector generation
