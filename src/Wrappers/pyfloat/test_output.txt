@@ -1,0 +1,223 @@
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ 
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ clear
+
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.603056
+
+  0 0 1 1 1 1 1 1 0 0 0 1 1 0 1 0 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111000110100110000111100111saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.389287
+
+  0 0 1 1 1 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0 0 0 0 1 0 1 0 0 1 0 0 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111110110001110101000010100100saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111010001110011000010011101saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00000000000000000000000000000101saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00000000000000000000000000000001saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00000000000000000000000000000001
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00000000000000000000000000000001
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00000000000000000000000000000001
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111010001110011000010011101
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111010001110011000010011101
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111010001110011000010011101
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111010001110011000010011101
+bit_store_8=157	
+time_difference=0.000000	saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ gcc get_n_mantissa_bits_safe.c -o get_n_mantissa_bits_safe
+saswat@saswat-HP-ProBook-440-G3:~/Generalized-Arnold-Map/C/C_Wrappers/pyfloatsafe$ ./get_n_mantissa_bits_safe
+
+IEEE-754 Single-Precision representation of: 0.778086
+
+  0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 
+ |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+ |s|      exp      |                  mantissa                   |
+
+
+Before assigining any bits to bit_store_32=
+00000000000000000000000000000000
+After assigining bits to bit_store_32=
+00111111010001110011000010011101
+bit_store_8=157	
+time_difference=0.000000	
