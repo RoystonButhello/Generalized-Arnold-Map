@@ -1,17 +1,16 @@
-#include <stdio.h>
 #include <stdint.h>
 #define BIT_RETURN(A,LOC) ((A & 1 << LOC) ? 1:0) 
 
 uint8_t get_n_mantissa_bits(float number,int number_of_bits)
 {
-	int i=31;
+	
 	int *b;
 	b=&number;
 	
 	int bit_store_32=0;
 	uint8_t bit_store_8=0;
 	
-	for (i=number_of_bits;i>=0;i--)
+	for (int i=number_of_bits-1;i>=0;i--)
 	{
 		if (BIT_RETURN(*b,i)==1)
 		{
@@ -36,8 +35,9 @@ uint8_t get_n_mantissa_bits_safe(float f,int number_of_bits)
     uint8_t bit_store_8=0;
     
     
-    while (i--)
+    for(int i=number_of_bits-1; i >= 0; i--)
     {
+
         
         if(BIT_RETURN(fu.u,i)==1)
         {

@@ -3030,7 +3030,6 @@ static swig_module_info swig_module = {swig_types, 9, 0, 0, 0, 0};
     /* Every thing in this file is being copied in  
      wrapper file. We include the C header file necessary 
      to compile the interface */
-    
     #include "pyfloat.h" 
   	#include <stdint.h>
     /* variable declaration*/
