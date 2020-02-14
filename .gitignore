@@ -1,0 +1,9 @@
+# Ignore directories
+__pycache__/
+0_Versions/
+temp/
+
+# Ignore files
+images/*_encrypted.png
+images/*_decrypted.png
+*.cu
